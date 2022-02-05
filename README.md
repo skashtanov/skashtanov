@@ -2,7 +2,7 @@
 
 ## I'm a math-student and developer.
 
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C++ and C# (working in project with both of them also)
 - 👯 I’m looking to collaborate with other developers to crate smth exciting
 - 🥅 2021 Goals: Contribute more to my repositories
 - ⚡ Fun fact: I love to review and improve any code that i can understand
