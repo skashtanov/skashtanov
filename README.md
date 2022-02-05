@@ -17,6 +17,9 @@
 ### Watch my repos
 - &nbsp; Github [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
+### And my StackOverflow
+- &nbsp; StackOverflow [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+
 ### Send me an email
 
 - &nbsp; Personal [<img align="left" alt="Main Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][main_email]
@@ -56,6 +59,7 @@
 [instagram]: https://instagram.com/underl0rd
 [linkedin]: https://linkedin.com/in/under1ord
 [github]: https://github.com/skashtanov
+[stackoverflow]: https://stackoverflow.com/users/17900527/excommunicado
 [main_email]: mailto:under1ord@yandex.ru
 [secondary_email]: mailto:kashtanovsergey2000@yandex.ru
 [work_email]: mailto:s.kashtanov255@gmail.com
