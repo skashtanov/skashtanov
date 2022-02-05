@@ -4,7 +4,12 @@
 
 - 🌱 I’m currently learning C++ and C# (working in project with both of them also)
 - 👯 I’m looking to collaborate with other developers to crate smth exciting
-- 🥅 2021 Goals: Contribute more to my repositories
+- 🥅 2022 Goals: 
+* Contribute more to my repositories
+* Improve coding skills
+* Write articles in blog
+* Answering on StackOverflow
+* Try to commit in open-source 
 - ⚡ Fun fact: I love to review and improve any code that i can understand
 
 ### Connect with me:
