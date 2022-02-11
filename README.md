@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergey - aka [@under1ord][telegram] 👋
 
-## I'm a math-student and developer.
+## I'm a math-student and C#/C++ - developer.
 
 - 🌱 I’m currently learning C++ and C# (working in project with both of them also)
 - 👯 I’m looking to collaborate with other developers to crate smth exciting
