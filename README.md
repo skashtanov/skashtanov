@@ -10,6 +10,7 @@
   * Write articles in blog
   * Answering on StackOverflow
   * Try to commit in open-source 
+  * Start learning Go to write project using it
 - ⚡ Fun fact: I love to review and improve any code that i can understand
 
 ### Connect with me:
