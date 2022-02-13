@@ -57,10 +57,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skashtanov&hide=css,scss,html&theme=tokyonight)
 
-### Github stats:
 [![skashtanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=skashtanov)](https://github.com/anuraghazra/github-readme-stats)
 
-### Codewars stats:
 [![Codewars](https://github.r2v.ch/codewars?user=skashtanov&name=true&top_languages=true&theme=light)](https://www.codewars.com/users/skashtanov)
 
 [telegram]: https://t.me/under1ord
