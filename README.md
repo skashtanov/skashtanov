@@ -59,9 +59,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skashtanov&hide=css,scss,html&theme=tokyonight)
 
 ### Some stats
+[![skashtanov github activity graph](https://activity-graph.herokuapp.com/graph?username=skashtanov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 [![skashtanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=skashtanov)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Codewars](https://github.r2v.ch/codewars?user=skashtanov&name=true&top_languages=true&theme=light)](https://www.codewars.com/users/skashtanov)
+
+
 
 [telegram]: https://t.me/under1ord
 [vk]: https://vk.com/major_cringe
