@@ -18,7 +18,7 @@
 - &nbsp; Telegram **(preferable)** [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 - &nbsp; LinkedIn [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - &nbsp; Instagram [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-- &nbsp; VK [<img align="left" alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][instagram]
+- &nbsp; VK [<img align="left" alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 ### Watch my repos
 - &nbsp; Github [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -59,8 +59,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skashtanov&hide=css,scss,html&theme=tokyonight)
 
 ### Some stats
-[![skashtanov github activity graph](https://activity-graph.herokuapp.com/graph?username=skashtanov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![skashtanov github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=skashtanov&theme=react-dark)](https://github-readme-activity-graph.cyclic.app)
 
 [![skashtanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=skashtanov)](https://github.com/anuraghazra/github-readme-stats)
 
